@@ -33,7 +33,7 @@
         <div class="container py-3 border">
             <h1>Form</h1>
 
-            <form action="result.php" method="GET">
+            <form action="result.php" method="POST">
                 <div class="mb-3">
                     <label for="paragraph" class="form-label">Paragraph</label>
                     <textarea class="form-control" name="paragraph" id="paragraph" rows="3"></textarea>

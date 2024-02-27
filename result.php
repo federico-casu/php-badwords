@@ -1,8 +1,8 @@
 
 <?php
 
-    $text = $_GET['paragraph'];
-    $word = $_GET['bad_word'];
+    $text = $_POST['paragraph'];
+    $word = $_POST['bad_word'];
 
 ?>
 
